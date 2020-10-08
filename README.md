@@ -6,7 +6,7 @@ Just a Demo Repo for trying out Pull Requests.
 
 <p align="center">
   <a href="https://www.csi.sfit.ac.in/">
-    <img src="Images/CSI_Logo.png"
+    <img src="https://github.com/CSI-SFIT/Getting-Started-With-Hacktoberfest/blob/main/Images/CSI_Logo.png"
          alt="csi_logo" width="300" height="300">
   </a>
 </p>
